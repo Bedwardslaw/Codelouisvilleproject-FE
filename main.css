@@ -47,6 +47,7 @@ section {
   opacity: 1;
   transform: translate(0, 0); 
   }
+ 
   @media (max-width: 575.98px){
     nav{
       text-align: center;
